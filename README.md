@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bursh+Anton+%F0%9F%91%8B;Java+%2F+Kotlin+Backend+Developer;Building+reliable+high-load+systems">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bursh+Anton+%F0%9F%91%8B;Java+%2F+Kotlin+Backend+Developer;Building+reliable+high-load+systems">
   <br><br>
   <img width="500" src="https://media1.tenor.com/m/Y0fY8EU83-IAAAAd/congratulations-congrats.gif" alt="Congratulations GIF" />
 </div>
@@ -12,7 +12,7 @@ I am a Java / Kotlin backend developer focused on building reliable high-load di
 
 I work with backend services, REST APIs, gRPC, databases, messaging systems, and infrastructure tools. I care about clean architecture, stable integrations, performance, monitoring, and maintainable code.
 
-Study ay BSUIR (Computer science)
+I study at <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/BSUIR_logo.png" height="20" alt="BSUIR logo" /> ![BSUIR](https://img.shields.io/badge/BSUIR-355C9A?style=flat) ![Faculty of Computer Systems and Networks](https://img.shields.io/badge/Faculty_of_Computer_Systems_and_Networks-B86B3D?style=flat)
 
 ## Skills
 
@@ -33,9 +33,8 @@ Study ay BSUIR (Computer science)
 
 <div align="center">
 
-![Bursh Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyanPosling&show_icons=true&theme=tokyonight&hide_border=false&border_color=8aa2ff&title_color=8aa2ff&text_color=9ca3af&bg_color=0d1117)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GyanPosling&layout=compact&theme=tokyonight&hide_border=false&border_color=8aa2ff&title_color=8aa2ff&text_color=9ca3af&bg_color=0d1117)
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyanPosling&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GyanPosling&theme=tokyonight" alt="Most used languages" />
 
 </div>
 
