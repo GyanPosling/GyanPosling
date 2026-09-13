@@ -14,6 +14,8 @@ I work with backend services, REST APIs, gRPC, databases, messaging systems, and
 
 I study at <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/BSUIR_logo.png" height="20" alt="BSUIR logo" /> ![BSUIR](https://img.shields.io/badge/BSUIR-355C9A?style=flat) ![Faculty of Computer Systems and Networks](https://img.shields.io/badge/Faculty_of_Computer_Systems_and_Networks-B86B3D?style=flat)
 
+I work at T-Bank
+
 ## Skills
 
 | Area | Technologies |
